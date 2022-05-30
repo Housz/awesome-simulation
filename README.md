@@ -1,7 +1,7 @@
 # GraphicsSimulation
-Resources for Physics based simulation in Computer Graphics 图形学中物理模拟的资源整理
 
 基于物理的模拟/动画（Physics based simulation/animation）方向的课程、研究者、文献和代码等资源。持续更新，欢迎补充！
+知乎：https://zhuanlan.zhihu.com/p/444931303
 
 ## 1 课程
 
