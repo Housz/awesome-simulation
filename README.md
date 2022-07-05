@@ -260,27 +260,6 @@ GAMES103 课程王华民老师推荐的文献：
 
 未完待续.....
 
-中科大暑期课程计算机图形学前沿进展 物理模拟相关讲座
-
-官网：[计算机图形学前沿进展](http://staff.ustc.edu.cn/~renjiec/SummerSchool_2022/index.html)    视频：[哔哩哔哩](https://space.bilibili.com/1598639097/)
-
-2014【许威威】[快速弹性形变物理仿真技术](https://www.bilibili.com/video/BV1gf4y1G7CZ?p=5&vd_source=69468ebad779e1a70aa2d793ae97c2f0)
-
-2016【黄劲】[弹性模拟中的线性化与降维](https://www.bilibili.com/video/BV1m44y1k7L4?p=10&vd_source=69468ebad779e1a70aa2d793ae97c2f0)
-
-2017【Paul Kry】[Physics Based Computer Animation Fundamentals](https://www.bilibili.com/video/BV1364y1v7Rv?p=38&vd_source=69468ebad779e1a70aa2d793ae97c2f0)
-
-2018【张举勇】[几何优化与物理模拟中的数值优化算法](https://www.bilibili.com/video/BV1DL4y1e7N2?p=7&vd_source=69468ebad779e1a70aa2d793ae97c2f0)
-
-2019【刘天添】[Towards Real-time Simulation of Deformable Objects](https://www.bilibili.com/video/BV1hM4y1L7VY?p=5&vd_source=69468ebad779e1a70aa2d793ae97c2f0)
-
-2021【任博】[使用拉格朗日粒子方法的图形学多流体模拟](https://www.bilibili.com/video/BV1Kf4y157WW?p=8&vd_source=69468ebad779e1a70aa2d793ae97c2f0)
-
-2021【刘晓培】[高性能可视流体计算及其应用](https://www.bilibili.com/video/BV1Kf4y157WW?p=9&vd_source=69468ebad779e1a70aa2d793ae97c2f0)
-
-2021【王华民】[Real-Time Cloth Simulation on GPUs](https://www.bilibili.com/video/BV1Kf4y157WW?p=10&vd_source=69468ebad779e1a70aa2d793ae97c2f0)
-
-2021【匡冶, 刘剑成】[太极编程语言与可微物理模拟](https://www.bilibili.com/video/BV1Kf4y157WW?p=21&vd_source=69468ebad779e1a70aa2d793ae97c2f0)
 
 ## 6 代码与工具
 
