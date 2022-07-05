@@ -1,17 +1,12 @@
-# GraphicsSimulation
-
-基于物理的模拟/动画（Physics based simulation/animation）方向的课程、研究者、文献和代码等资源。持续更新，欢迎补充！
-
-
-知乎：https://zhuanlan.zhihu.com/p/444931303
+**整理一下基于物理的模拟/动画（Physics based simulation/animation）方向的课程、研究者、文献和代码等资源。持续更新，欢迎补充！**
 
 ## 1 课程
 
 **图形学入门：**
 
-【闫令琪】[GAMES101: 现代计算机图形学入门](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html) 
+【闫令琪】[GAMES101: 现代计算机图形学入门](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
 
-【刘利刚】[2020年中国科学技术大学《计算机图形学》本科课程](https://www.bilibili.com/video/BV1iT4y1o7oM) 
+【刘利刚】[2020年中国科学技术大学《计算机图形学》本科课程](https://www.bilibili.com/video/BV1iT4y1o7oM)
 
 【[OpenGL](https://learnopengl-cn.github.io/)】[LearnOpenGL CN (learnopengl-cn.github.io)](https://learnopengl-cn.github.io/) 最好的OpenGL入门教程
 
@@ -31,13 +26,13 @@
 
 【Matthias Müller】[Ten Minute Physics](https://matthias-research.github.io/pages/tenMinutePhysics/index.html) （更新中）特点是提供JavaScript实现代码，容易上手。
 
-【Adam Bargteil】[SIGGRAPH'19 Course: An Introduction to Physics-Based Animation](https://www.youtube.com/watch?v=b_WJ-HwalwU&ab_channel=ACMSIGGRAPH) Siggraph2019课程，介绍了物理模拟的基本概念，有配套文档。
+【Adam Bargteil】[SIGGRAPH&#39;19 Course: An Introduction to Physics-Based Animation](https://www.youtube.com/watch?v=b_WJ-HwalwU&ab_channel=ACMSIGGRAPH) Siggraph2019课程，介绍了物理模拟的基本概念，有配套文档。
 
 【David I.W. Levin】[CSC417/CSC2549 Physics-Based Animation](https://github.com/dilevin/CSC417-physics-based-animation) [YouTube](https://www.youtube.com/channel/UCIM0HrQVDcUYdrZvSwuUJgA/videos) [bilibili](https://www.bilibili.com/video/BV1GB4y1u72S) 拉格朗日力学，质点弹簧系统，FEM，刚体、流体。
 
 【Doug L. James】[CS 5643: Physically Based Animation for Computer Graphics (2015)](https://www.cs.cornell.edu/courses/cs5643/2015sp/) 非常全面的课程，列出了每个方向的经典文献。包括：粒子、矩阵计算、约束动力学、SPH流体、PBF流体、数值积分、隐式求解、PBD、碰撞、刚体、刚体声音、流体、共轭梯度、Shape Matching、破碎、烟雾水体和火的控制、噪声与湍流、动画声音等。[Doug的其他课程](http://graphics.stanford.edu/~djames/teaching/)：[CS 448Z: Physically Based Animation and Sound (2021)](http://graphics.stanford.edu/courses/cs448z/)，[CS 248: Interactive Computer Graphics (2022)](https://gfxcourses.stanford.edu/cs248/winter22)，[CS 348C: Computer Graphics: Animation and Simulation (2022)](http://graphics.stanford.edu/courses/cs348c/)
 
-【Jernej Barbič】[CSCI 520 Computer Animation and Simulation](https://viterbi-web.usc.edu/~jbarbic/cs520-s22/) 
+【Jernej Barbič】[CSCI 520 Computer Animation and Simulation](https://viterbi-web.usc.edu/~jbarbic/cs520-s22/)
 
 **数学基础：**
 
@@ -55,19 +50,19 @@
 
 ## 2 研究者、团队
 
-[胡渊鸣](https://yuanming.taichi.graphics/) ：（MIT, 太极图形） [@胡渊鸣](https://www.zhihu.com/people/19787805e0d1f80fe5501ec60be84d6a) 
+[胡渊鸣](https://yuanming.taichi.graphics/) ：（MIT, 太极图形） [@胡渊鸣](https://www.zhihu.com/people/19787805e0d1f80fe5501ec60be84d6a)
 
 [刘利刚](http://staff.ustc.edu.cn/~lgliu/) ：（中科大）
 
-[刘天添](https://tiantianliu.cn/) ：（UPenn, 太极图形） [@天天添一点儿](https://www.zhihu.com/people/b71d9a706d0216654be0f16cfd0b2b5a) 
+[刘天添](https://tiantianliu.cn/) ：（UPenn, 太极图形） [@天天添一点儿](https://www.zhihu.com/people/b71d9a706d0216654be0f16cfd0b2b5a)
 
-[王华民](https://web.cse.ohio-state.edu/~wang.3602/index.html) ：（Ohio State University） [@wanghmin](https://www.zhihu.com/people/ca6e5cf45df33e1ca946aab6a5295ad2) 
+[王华民](https://web.cse.ohio-state.edu/~wang.3602/index.html) ：（Ohio State University） [@wanghmin](https://www.zhihu.com/people/ca6e5cf45df33e1ca946aab6a5295ad2)
 
-[蒋陈凡夫](https://www.math.ucla.edu/~cffjiang/) ：（UCLA） [@蒋陈凡夫](https://www.zhihu.com/people/346d9a6d4914ba9d4f1fcf7b4e41e514) 
+[蒋陈凡夫](https://www.math.ucla.edu/~cffjiang/) ：（UCLA） [@蒋陈凡夫](https://www.zhihu.com/people/346d9a6d4914ba9d4f1fcf7b4e41e514)
 
-[张心欣](https://zhxx1987.github.io/) ：（UBC, 泽森科工） [@张心欣](https://www.zhihu.com/people/9d0cd62f9071c2b003b2ef7b017fb7f5) 
+[张心欣](https://zhxx1987.github.io/) ：（UBC, 泽森科工） [@张心欣](https://www.zhihu.com/people/9d0cd62f9071c2b003b2ef7b017fb7f5)
 
-[李旻辰](https://www.math.ucla.edu/~minchen/) ：（UCLA） [@Minchern](https://www.zhihu.com/people/9f3ee58deeb19551bd92d9591e4503d7) 
+[李旻辰](https://www.math.ucla.edu/~minchen/) ：（UCLA） [@Minchern](https://www.zhihu.com/people/9f3ee58deeb19551bd92d9591e4503d7)
 
 [费昀](http://yunfei.work/) ：（Adobe） [@Raymond Fei](https://www.zhihu.com/people/ecf74d1b95762c56eebfe55935655e26)
 
@@ -149,7 +144,7 @@
 
 【物理仿真论文集合】[Physics-Based Animation (physicsbasedanimation.com)](http://www.physicsbasedanimation.com/)
 
-【图形学论文集合】[Resource for Computer Graphics - Ke-Sen Huang's Home Page (realtimerendering.com)](http://kesen.realtimerendering.com/)
+【图形学论文集合】[Resource for Computer Graphics - Ke-Sen Huang&#39;s Home Page (realtimerendering.com)](http://kesen.realtimerendering.com/)
 
 【SIGGRAPH Courses等资源】 https://blog.selfshadow.com/
 
@@ -185,7 +180,7 @@
 
 GAMES103 课程王华民老师推荐的文献：
 
-【刚体】Witkin and Baraff. 2001. Physically Based Modeling – Rigid Body Dynamics. SIGGRAPH Courses. 
+【刚体】Witkin and Baraff. 2001. Physically Based Modeling – Rigid Body Dynamics. SIGGRAPH Courses.
 
 【Shape Matching】Muller et al. 2005. Meshless Deformations Based on Shape Matching. TOG (SIGGRAPH).
 
@@ -215,7 +210,7 @@ GAMES103 课程王华民老师推荐的文献：
 
 [Featherstone: Rigid Body Dynamics Algorithms](https://link.springer.com/book/10.1007/978-1-4899-7560-7)
 
-[Sheldon Andrews & Kenny Erleben SIGGRAPH'21 Course: Contact and Friction Simulation for Computer Graphics](https://siggraphcontact.github.io/) Siggraph2021课程，介绍接触与摩擦。包括：接触和摩擦的理论、算法，线性互补问题（LCP）等。
+[Sheldon Andrews &amp; Kenny Erleben SIGGRAPH&#39;21 Course: Contact and Friction Simulation for Computer Graphics](https://siggraphcontact.github.io/) Siggraph2021课程，介绍接触与摩擦。包括：接触和摩擦的理论、算法，线性互补问题（LCP）等。
 
 **Position Based Dynamics**
 
@@ -227,7 +222,7 @@ GAMES103 课程王华民老师推荐的文献：
 
 **FEM**
 
-[FEM Simulation of 3D Deformable Solids: A practitioner's guide to theory, discretization and model reduction](http://www.femdefo.org/)
+[FEM Simulation of 3D Deformable Solids: A practitioner&#39;s guide to theory, discretization and model reduction](http://www.femdefo.org/)
 
 **能量优化视角**（Fast Mass-Spring, Projective Dynamics, Quasi-Newton, ADMM ......）
 
@@ -241,7 +236,51 @@ GAMES103 课程王华民老师推荐的文献：
 
 【Eurographics Tutorial, 2019】[Smoothed Particle Hydrodynamics Techniques for the Physics Based Simulation of Fluids and Solids](https://interactivecomputergraphics.github.io/SPH-Tutorial/)*Dan Koschier, Jan Bender, Barbara Solenthaler, Matthias Teschner*  包括：SPH理论基础、近邻搜索、不可压缩性、边界处理、多相流体、粘度、涡度、SPlisHSPlasH开源库、可变形固体、刚体、数据驱动技术。
 
-未完待续......
+中科大暑期课程计算机图形学前沿进展 物理模拟相关讲座
+
+官网：[计算机图形学前沿进展](http://staff.ustc.edu.cn/~renjiec/SummerSchool_2022/index.html)    视频：[哔哩哔哩](https://space.bilibili.com/1598639097/)
+
+2014【许威威】[快速弹性形变物理仿真技术](https://www.bilibili.com/video/BV1gf4y1G7CZ?p=5&vd_source=69468ebad779e1a70aa2d793ae97c2f0)
+
+2016【黄劲】[弹性模拟中的线性化与降维](https://www.bilibili.com/video/BV1m44y1k7L4?p=10&vd_source=69468ebad779e1a70aa2d793ae97c2f0)
+
+2017【Paul Kry】[Physics Based Computer Animation Fundamentals](https://www.bilibili.com/video/BV1364y1v7Rv?p=38&vd_source=69468ebad779e1a70aa2d793ae97c2f0)
+
+2018【张举勇】[几何优化与物理模拟中的数值优化算法](https://www.bilibili.com/video/BV1DL4y1e7N2?p=7&vd_source=69468ebad779e1a70aa2d793ae97c2f0)
+
+2019【刘天添】[Towards Real-time Simulation of Deformable Objects](https://www.bilibili.com/video/BV1hM4y1L7VY?p=5&vd_source=69468ebad779e1a70aa2d793ae97c2f0)
+
+2021【任博】[使用拉格朗日粒子方法的图形学多流体模拟](https://www.bilibili.com/video/BV1Kf4y157WW?p=8&vd_source=69468ebad779e1a70aa2d793ae97c2f0)
+
+2021【刘晓培】[高性能可视流体计算及其应用](https://www.bilibili.com/video/BV1Kf4y157WW?p=9&vd_source=69468ebad779e1a70aa2d793ae97c2f0)
+
+2021【王华民】[Real-Time Cloth Simulation on GPUs](https://www.bilibili.com/video/BV1Kf4y157WW?p=10&vd_source=69468ebad779e1a70aa2d793ae97c2f0)
+
+2021【匡冶, 刘剑成】[太极编程语言与可微物理模拟](https://www.bilibili.com/video/BV1Kf4y157WW?p=21&vd_source=69468ebad779e1a70aa2d793ae97c2f0)
+
+未完待续.....
+
+中科大暑期课程计算机图形学前沿进展 物理模拟相关讲座
+
+官网：[计算机图形学前沿进展](http://staff.ustc.edu.cn/~renjiec/SummerSchool_2022/index.html)    视频：[哔哩哔哩](https://space.bilibili.com/1598639097/)
+
+2014【许威威】[快速弹性形变物理仿真技术](https://www.bilibili.com/video/BV1gf4y1G7CZ?p=5&vd_source=69468ebad779e1a70aa2d793ae97c2f0)
+
+2016【黄劲】[弹性模拟中的线性化与降维](https://www.bilibili.com/video/BV1m44y1k7L4?p=10&vd_source=69468ebad779e1a70aa2d793ae97c2f0)
+
+2017【Paul Kry】[Physics Based Computer Animation Fundamentals](https://www.bilibili.com/video/BV1364y1v7Rv?p=38&vd_source=69468ebad779e1a70aa2d793ae97c2f0)
+
+2018【张举勇】[几何优化与物理模拟中的数值优化算法](https://www.bilibili.com/video/BV1DL4y1e7N2?p=7&vd_source=69468ebad779e1a70aa2d793ae97c2f0)
+
+2019【刘天添】[Towards Real-time Simulation of Deformable Objects](https://www.bilibili.com/video/BV1hM4y1L7VY?p=5&vd_source=69468ebad779e1a70aa2d793ae97c2f0)
+
+2021【任博】[使用拉格朗日粒子方法的图形学多流体模拟](https://www.bilibili.com/video/BV1Kf4y157WW?p=8&vd_source=69468ebad779e1a70aa2d793ae97c2f0)
+
+2021【刘晓培】[高性能可视流体计算及其应用](https://www.bilibili.com/video/BV1Kf4y157WW?p=9&vd_source=69468ebad779e1a70aa2d793ae97c2f0)
+
+2021【王华民】[Real-Time Cloth Simulation on GPUs](https://www.bilibili.com/video/BV1Kf4y157WW?p=10&vd_source=69468ebad779e1a70aa2d793ae97c2f0)
+
+2021【匡冶, 刘剑成】[太极编程语言与可微物理模拟](https://www.bilibili.com/video/BV1Kf4y157WW?p=21&vd_source=69468ebad779e1a70aa2d793ae97c2f0)
 
 ## 6 代码与工具
 
@@ -251,7 +290,7 @@ GAMES103 课程王华民老师推荐的文献：
 
 **开源引擎/代码库：**
 
-Taichi：[Taichi Graphics](https://taichi.graphics/) 太极图形编程语言 [@太极图形](https://www.zhihu.com/people/458c690a3722fd38ffd3d3dcadcf8b13) 
+Taichi：[Taichi Graphics](https://taichi.graphics/) 太极图形编程语言 [@太极图形](https://www.zhihu.com/people/458c690a3722fd38ffd3d3dcadcf8b13)
 
 ZENO：[ZENO](https://github.com/zenustech/zeno)：泽森ZENO开源引擎 [@张心欣](https://www.zhihu.com/people/9d0cd62f9071c2b003b2ef7b017fb7f5)
 
@@ -355,7 +394,7 @@ SuiteSparse：https://people.engr.tamu.edu/davis/suitesparse.html 大规模稀�
 
 [Computer Graphics Forum (CGF)](https://onlinelibrary.wiley.com/journal/14678659)
 
-[Computers & Graphics](https://www.journals.elsevier.com/computers-and-graphics)
+[Computers &amp; Graphics](https://www.journals.elsevier.com/computers-and-graphics)
 
 [The Visual Computer](https://www.springer.com/journal/371)
 
