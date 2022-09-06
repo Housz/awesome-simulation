@@ -1,8 +1,10 @@
-**整理一下基于物理的模拟/动画（Physics based simulation/animation）方向的课程、研究者、文献和代码等资源。持续更新，欢迎补充！**
+整理一下基于物理的模拟/动画（Physics based simulation/animation）方向的课程、研究者、文献和代码等资源。持续更新，欢迎补充！
+
+[GitHub: github.com/Housz/GraphicsSimulation](https://github.com/Housz/GraphicsSimulation)
 
 ## 1 课程
 
-**图形学入门：**
+图形学入门：
 
 【闫令琪】[GAMES101: 现代计算机图形学入门](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
 
@@ -10,7 +12,7 @@
 
 【[OpenGL](https://learnopengl-cn.github.io/)】[LearnOpenGL CN (learnopengl-cn.github.io)](https://learnopengl-cn.github.io/) 最好的OpenGL入门教程
 
-**物理模拟：**
+物理模拟：
 
 【王华民】[GAMES103：基于物理的计算机动画入门](http://games-cn.org/games103/) 包括：数学背景知识、刚体、质点弹簧系统、约束、碰撞、软体与有限元、流体等，对新手比较友好。四个作业（刚体、布料、柔性体、流体）采用Unity平台，较容易上手。
 
@@ -28,15 +30,15 @@
 
 【Adam Bargteil】[SIGGRAPH&#39;19 Course: An Introduction to Physics-Based Animation](https://www.youtube.com/watch?v=b_WJ-HwalwU&ab_channel=ACMSIGGRAPH) Siggraph2019课程，介绍了物理模拟的基本概念，有配套文档。
 
-【David I.W. Levin】[CSC417/CSC2549 Physics-Based Animation](https://github.com/dilevin/CSC417-physics-based-animation) [YouTube](https://www.youtube.com/channel/UCIM0HrQVDcUYdrZvSwuUJgA/videos) [bilibili](https://www.bilibili.com/video/BV1GB4y1u72S) 拉格朗日力学，质点弹簧系统，FEM，刚体、流体。
+【David I.W. Levin】[CSC417/CSC2549 Physics-Based Animation](https://github.com/dilevin/CSC417-physics-based-animation)[YouTube](https://www.youtube.com/channel/UCIM0HrQVDcUYdrZvSwuUJgA/videos)[bilibili](https://www.bilibili.com/video/BV1GB4y1u72S) 拉格朗日力学，质点弹簧系统，FEM，刚体、流体。
 
 【Doug L. James】[CS 5643: Physically Based Animation for Computer Graphics (2015)](https://www.cs.cornell.edu/courses/cs5643/2015sp/) 非常全面的课程，列出了每个方向的经典文献。包括：粒子、矩阵计算、约束动力学、SPH流体、PBF流体、数值积分、隐式求解、PBD、碰撞、刚体、刚体声音、流体、共轭梯度、Shape Matching、破碎、烟雾水体和火的控制、噪声与湍流、动画声音等。[Doug的其他课程](http://graphics.stanford.edu/~djames/teaching/)：[CS 448Z: Physically Based Animation and Sound (2021)](http://graphics.stanford.edu/courses/cs448z/)，[CS 248: Interactive Computer Graphics (2022)](https://gfxcourses.stanford.edu/cs248/winter22)，[CS 348C: Computer Graphics: Animation and Simulation (2022)](http://graphics.stanford.edu/courses/cs348c/)
 
 【Jernej Barbič】[CSCI 520 Computer Animation and Simulation](https://viterbi-web.usc.edu/~jbarbic/cs520-s22/)
 
-**数学基础：**
+数学基础：
 
-矩阵计算基础：[GAMES103数学基础](http://games-cn.org/games103/) [3Blue1Brown线性代数的本质](https://www.bilibili.com/video/BV1ys411472E?spm_id_from=333.999.0.0) [矩阵求导术](https://zhuanlan.zhihu.com/p/24709748) [Numerical Recipes](http://numerical.recipes/book/book.html) [wiki Matrix_calculus](https://en.m.wikipedia.org/wiki/Matrix_calculus)
+矩阵计算基础：[GAMES103数学基础](http://games-cn.org/games103/)[3Blue1Brown线性代数的本质](https://www.bilibili.com/video/BV1ys411472E?spm_id_from=333.999.0.0)[矩阵求导术](https://zhuanlan.zhihu.com/p/24709748)[Numerical Recipes](http://numerical.recipes/book/book.html)[wiki Matrix_calculus](https://en.m.wikipedia.org/wiki/Matrix_calculus)
 
 数值分析基础：[数值分析2020春](https://www.bilibili.com/video/BV18741177td) 苏州大学张亚楠老师，深入浅出。教材参考李庆扬《数值分析》第四/五版。
 
@@ -50,31 +52,33 @@
 
 ## 2 研究者、团队
 
-[胡渊鸣](https://yuanming.taichi.graphics/) ：（MIT, 太极图形） [@胡渊鸣](https://www.zhihu.com/people/19787805e0d1f80fe5501ec60be84d6a)
+[胡渊鸣](https://yuanming.taichi.graphics/) （MIT, 太极图形） [@胡渊鸣](https://www.zhihu.com/people/19787805e0d1f80fe5501ec60be84d6a)[99行代码的《冰雪奇缘》](https://zhuanlan.zhihu.com/p/97700605)
 
-[刘利刚](http://staff.ustc.edu.cn/~lgliu/) ：（中科大）
+[刘利刚](http://staff.ustc.edu.cn/~lgliu/) （中科大）
 
-[刘天添](https://tiantianliu.cn/) ：（UPenn, 太极图形） [@天天添一点儿](https://www.zhihu.com/people/b71d9a706d0216654be0f16cfd0b2b5a)
+[刘天添](https://tiantianliu.cn/) （UPenn, 太极图形） [@天天添一点儿](https://www.zhihu.com/people/b71d9a706d0216654be0f16cfd0b2b5a)
 
-[王华民](https://web.cse.ohio-state.edu/~wang.3602/index.html) ：（Ohio State University） [@wanghmin](https://www.zhihu.com/people/ca6e5cf45df33e1ca946aab6a5295ad2)
+[王华民](https://web.cse.ohio-state.edu/~wang.3602/index.html) （Ohio State University，style3d） [@wanghmin](https://www.zhihu.com/people/ca6e5cf45df33e1ca946aab6a5295ad2)
 
-[蒋陈凡夫](https://www.math.ucla.edu/~cffjiang/) ：（UCLA） [@蒋陈凡夫](https://www.zhihu.com/people/346d9a6d4914ba9d4f1fcf7b4e41e514)
+[蒋陈凡夫](https://www.math.ucla.edu/~cffjiang/) （UCLA） [@蒋陈凡夫](https://www.zhihu.com/people/346d9a6d4914ba9d4f1fcf7b4e41e514)[从转系生到终身教授：十二年图形学物理模拟的自我回顾](https://zhuanlan.zhihu.com/p/560415998)
 
-[张心欣](https://zhxx1987.github.io/) ：（UBC, 泽森科工） [@张心欣](https://www.zhihu.com/people/9d0cd62f9071c2b003b2ef7b017fb7f5)
+[张心欣](https://zhxx1987.github.io/) （UBC, 泽森科工） [@张心欣](https://www.zhihu.com/people/9d0cd62f9071c2b003b2ef7b017fb7f5)
 
-[李旻辰](https://www.math.ucla.edu/~minchen/) ：（UCLA） [@Minchern](https://www.zhihu.com/people/9f3ee58deeb19551bd92d9591e4503d7)
+[李旻辰](https://www.math.ucla.edu/~minchen/) （UCLA） [@Minchern](https://www.zhihu.com/people/9f3ee58deeb19551bd92d9591e4503d7)
 
-[费昀](http://yunfei.work/) ：（Adobe） [@Raymond Fei](https://www.zhihu.com/people/ecf74d1b95762c56eebfe55935655e26)
+[费昀](http://yunfei.work/) （Adobe） [@Raymond Fei](https://www.zhihu.com/people/ecf74d1b95762c56eebfe55935655e26)
 
-[任博](http://ren-bo.net/) ：（南开）
+[任博](http://ren-bo.net/) （南开）
 
-[黄劲](http://www.cad.zju.edu.cn/home/hj/index.xml) ：（浙大）
+[黄劲](http://www.cad.zju.edu.cn/home/hj/index.xml) （浙大）
 
-[高明](https://mingg13.github.io/) ：（Tencent）
+[唐敏](https://min-tang.github.io/home/Data/contact-ch.html)（浙大）
 
-[朱博](https://cs.dartmouth.edu/~bozhu/)：（Dartmouth）
+[高明](https://mingg13.github.io/) （Tencent）
 
-[Libin Liu](http://libliu.info/)：（北大）
+[朱博](https://cs.dartmouth.edu/~bozhu/)（Dartmouth）
+
+[Libin Liu](http://libliu.info/)（北大）
 
 [Ladislav Kavan](https://www.cs.utah.edu/~ladislav/)（University of Utah, Facebook）柔性体、数值方法等
 
@@ -85,6 +89,8 @@
 [David Baraff](http://www.cs.cmu.edu/~baraff/)；[Andrew Witkin](https://www.cs.cmu.edu/afs/cs.cmu.edu/user/aw/www/index.html) （CMU, Pixar）两位上古大神，宗师级人物
 
 [Demetri Terzopoulos](http://web.cs.ucla.edu/~dt/)（UCLA）
+
+[Joseph Teran](https://www.math.ucla.edu/~jteran/)（UCLA）
 
 [Markus Gross](https://cgl.ethz.ch/people/grossm/) （ETH Zurich）
 
@@ -122,7 +128,7 @@
 
 未完待续......
 
-**研究团队**
+研究团队
 
 [Stanford Computer Graphics Laboratory](https://graphics.stanford.edu/)（Stanford）
 
@@ -140,13 +146,13 @@
 
 【中文图形学交流平台】[计算机图形学与混合现实研讨会 – GAMES: Graphics And Mixed Environment Seminar (games-cn.org)](http://games-cn.org/)
 
-【中科大《计算机图形学前沿》暑期课程】[官网](http://staff.ustc.edu.cn/~lgliu/Courses/SummerSchool/USTC-summer-school.html) [Bilibili](https://space.bilibili.com/1598639097)
+【中科大《计算机图形学前沿》暑期课程】[官网](http://staff.ustc.edu.cn/~lgliu/Courses/SummerSchool/USTC-summer-school.html)[Bilibili](https://space.bilibili.com/1598639097)
 
 【物理仿真论文集合】[Physics-Based Animation (physicsbasedanimation.com)](http://www.physicsbasedanimation.com/)
 
 【图形学论文集合】[Resource for Computer Graphics - Ke-Sen Huang&#39;s Home Page (realtimerendering.com)](http://kesen.realtimerendering.com/)
 
-【SIGGRAPH Courses等资源】 https://blog.selfshadow.com/
+【SIGGRAPH Courses等资源】 [https://blog.selfshadow.com/](https://blog.selfshadow.com/)
 
 【物理仿真论文集合】[Computer Graphics and Simulation | Research Results](https://iphys.wordpress.com/)
 
@@ -174,9 +180,9 @@
 
 【一个游戏开发大神写的教程】[Video Game Physics Tutorial](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics)
 
-【SIGGRAPH Courses, 2018 软体仿真实时并行求解】[Parallel iterative solvers for real-time elastic deformations](http://www.cse.chalmers.se/~marcof/publication/sa2018course/) *Marco Fratarcangeli, Huamin Wang, Yin Yang*
+【SIGGRAPH Courses, 2018 软体仿真实时并行求解】[Parallel iterative solvers for real-time elastic deformations](http://www.cse.chalmers.se/~marcof/publication/sa2018course/)Marco Fratarcangeli, Huamin Wang, Yin Yang
 
-【SIGGRAPH Courses, 2020 软体】[Dynamic Deformables: Implementation and Production Practicalities](http://www.tkim.graphics/DYNAMIC_DEFORMABLES/) *Theodore Kim, David Eberle*
+【SIGGRAPH Courses, 2020 软体】[Dynamic Deformables: Implementation and Production Practicalities](http://www.tkim.graphics/DYNAMIC_DEFORMABLES/)Theodore Kim, David Eberle
 
 GAMES103 课程王华民老师推荐的文献：
 
@@ -204,7 +210,7 @@ GAMES103 课程王华民老师推荐的文献：
 
 ## 5 Topics & Methods
 
-**刚体（Rigid Body）**
+刚体（Rigid Body）
 
 [Interactive Simulation of Rigid Body Dynamics in Computer Graphics](http://diglib.eg.org/bitstream/handle/10.2312/conf.EG2012.stars.095-134/095-134.pdf?sequence=1&isAllowed=y)
 
@@ -212,29 +218,29 @@ GAMES103 课程王华民老师推荐的文献：
 
 [Sheldon Andrews &amp; Kenny Erleben SIGGRAPH&#39;21 Course: Contact and Friction Simulation for Computer Graphics](https://siggraphcontact.github.io/) Siggraph2021课程，介绍接触与摩擦。包括：接触和摩擦的理论、算法，线性互补问题（LCP）等。
 
-**Position Based Dynamics**
+Position Based Dynamics
 
 [A Survey on Position-Based Simulation Methods in Computer Graphics](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.491.1850&rep=rep1&type=pdf)
 
-**MPM**
+MPM
 
 [The Material Point Method for Simulating Continuum Materials](https://www.math.ucla.edu/~cffjiang/research/mpmcourse/mpmcourse.pdf)
 
-**FEM**
+FEM
 
 [FEM Simulation of 3D Deformable Solids: A practitioner&#39;s guide to theory, discretization and model reduction](http://www.femdefo.org/)
 
-**能量优化视角**（Fast Mass-Spring, Projective Dynamics, Quasi-Newton, ADMM ......）
+能量优化视角（Fast Mass-Spring, Projective Dynamics, Quasi-Newton, ADMM ......）
 
 [2019年（第八届）中国科学技术大学《计算机图形学前沿》暑期课程 P5 刘天添](https://www.bilibili.com/video/BV1hM4y1L7VY?p=5)
 
-**流体（Fluid）**
+流体（Fluid）
 
 [Fluid Engine Development](https://www.routledge.com/Fluid-Engine-Development/Kim/p/book/9781498719926) 配套流体模拟库：[Fluid Engine Dev](https://github.com/doyubkim/fluid-engine-dev)
 
-**SPH**
+SPH
 
-【Eurographics Tutorial, 2019】[Smoothed Particle Hydrodynamics Techniques for the Physics Based Simulation of Fluids and Solids](https://interactivecomputergraphics.github.io/SPH-Tutorial/)*Dan Koschier, Jan Bender, Barbara Solenthaler, Matthias Teschner*  包括：SPH理论基础、近邻搜索、不可压缩性、边界处理、多相流体、粘度、涡度、SPlisHSPlasH开源库、可变形固体、刚体、数据驱动技术。
+【Eurographics Tutorial, 2019】[Smoothed Particle Hydrodynamics Techniques for the Physics Based Simulation of Fluids and Solids](https://interactivecomputergraphics.github.io/SPH-Tutorial/)Dan Koschier, Jan Bender, Barbara Solenthaler, Matthias Teschner  包括：SPH理论基础、近邻搜索、不可压缩性、边界处理、多相流体、粘度、涡度、SPlisHSPlasH开源库、可变形固体、刚体、数据驱动技术。
 
 中科大暑期课程计算机图形学前沿进展 物理模拟相关讲座
 
@@ -258,8 +264,7 @@ GAMES103 课程王华民老师推荐的文献：
 
 2021【匡冶, 刘剑成】[太极编程语言与可微物理模拟](https://www.bilibili.com/video/BV1Kf4y157WW?p=21&vd_source=69468ebad779e1a70aa2d793ae97c2f0)
 
-未完待续.....
-
+未完待续......
 
 ## 6 代码与工具
 
@@ -267,15 +272,15 @@ GAMES103 课程王华民老师推荐的文献：
 
 [NumericalProjectsCollections](https://github.com/clatterrr/NumericalProjectsCollections)： [@胡虎互护呼](https://www.zhihu.com/people/81508c1d5969bb797f8e3f9c94acf68b) 大佬整理的图形学领域开源代码
 
-**开源引擎/代码库：**
+开源引擎/代码库：
 
 Taichi：[Taichi Graphics](https://taichi.graphics/) 太极图形编程语言 [@太极图形](https://www.zhihu.com/people/458c690a3722fd38ffd3d3dcadcf8b13)
 
 ZENO：[ZENO](https://github.com/zenustech/zeno)：泽森ZENO开源引擎 [@张心欣](https://www.zhihu.com/people/9d0cd62f9071c2b003b2ef7b017fb7f5)
 
-libigl：https://libigl.github.io/ 面向研究者的轻量的几何处理库
+libigl：[https://libigl.github.io/](https://libigl.github.io/) 面向研究者的轻量的几何处理库
 
-Box2D：http://www.box2d.org/ 经典2D物理引擎
+Box2D：[http://www.box2d.org/](http://www.box2d.org/) 经典2D物理引擎
 
 OED：[Open Dynamics Engine](http://ode.org/) 经典刚体模拟库
 
@@ -283,11 +288,11 @@ Bullet/pyBullet：[Bullet engine](https://pybullet.org/wordpress/) 3D物理引�
 
 DART：[DART: Dynamic Animation and Robotics Toolkit](https://dartsim.github.io/index.html) 机器人仿真、强化学习
 
-PhysX：[PhysX](https://developer.nvidia.com/gameworks-physx-overview) [FleX](https://developer.nvidia.com/flex) 英伟达游戏引擎，已开源
+PhysX：[PhysX](https://developer.nvidia.com/gameworks-physx-overview)[FleX](https://developer.nvidia.com/flex) 英伟达游戏引擎，已开源
 
 ARCSim：[ARCSim: Adaptive Refining and Coarsening Simulator](http://graphics.berkeley.edu/resources/ARCSim/index.html) 布料
 
-OpenCloth：https://github.com/mmmovania/opencloth 布料
+OpenCloth：[https://github.com/mmmovania/opencloth](https://github.com/mmmovania/opencloth) 布料
 
 Pinocchio：[Pinocchio](https://github.com/stack-of-tasks/pinocchio) 机器人仿真
 
@@ -297,15 +302,15 @@ ReactPhysics3d：[www.reactphysics3d.com](https://www.reactphysics3d.com/) 刚�
 
 Simbody：[simtk.org/projects/simbody/](https://simtk.org/projects/simbody/) 多体动力学、生物力学
 
-Chrono：https://projectchrono.org/ 多体动力学、有限元、车辆
+Chrono：[https://projectchrono.org/](https://projectchrono.org/) 多体动力学、有限元、车辆
 
-IPC：https://github.com/ipc-sim/IPC  Incremental Potential Contact
+IPC：[https://github.com/ipc-sim/IPC](https://github.com/ipc-sim/IPC)  Incremental Potential Contact
 
-RigidBodyDynamics.jl：https://github.com/JuliaRobotics/RigidBodyDynamics.jl Julia语言的刚体动力学库
+RigidBodyDynamics.jl：[https://github.com/JuliaRobotics/RigidBodyDynamics.jl](https://github.com/JuliaRobotics/RigidBodyDynamics.jl) Julia语言的刚体动力学库
 
-RBDL：https://github.com/rbdl/rbdl 刚体动力学，实现了Featherstone教材内容
+RBDL：[https://github.com/rbdl/rbdl](https://github.com/rbdl/rbdl) 刚体动力学，实现了Featherstone教材内容
 
-GEAR：https://github.com/junggon/gear 基于李群/旋量理论的多体动力学库
+GEAR：[https://github.com/junggon/gear](https://github.com/junggon/gear) 基于李群/旋量理论的多体动力学库
 
 PBD：[InteractiveComputerGraphics / PositionBasedDynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics)
 
@@ -313,41 +318,41 @@ SPH：[InteractiveComputerGraphics/SPlisHSPlasH](https://github.com/InteractiveC
 
 Fluid Engine Dev：[Fluid Engine Dev](https://github.com/doyubkim/fluid-engine-dev)：流体模拟库，有配套教材
 
-PhysBAM：http://physbam.stanford.edu/ 一个包罗万象的物理模拟库，包括：刚体、变形体、流体、布料、流固耦合、人体、破碎、火焰、烟雾、头发、肌肉等
+PhysBAM：[http://physbam.stanford.edu/](http://physbam.stanford.edu/) 一个包罗万象的物理模拟库，包括：刚体、变形体、流体、布料、流固耦合、人体、破碎、火焰、烟雾、头发、肌肉等
 
 mantaflow：[An extensible framework for fluid simulation](http://mantaflow.com/index.html) 流体
 
 Vega：[VEGA FEM LIBRARY](http://barbic.usc.edu/vega/) 有限元
 
-http://david.li/ ：一个Web3d环境下的物理效果集合库
+[http://david.li/](http://david.li/) ：一个Web3d环境下的物理效果集合库
 
 SimpleSimulationEngine： [github.com/ProkopHapala/SimpleSimulationEngine](https://github.com/ProkopHapala/SimpleSimulationEngine) 模拟、数值、C++/python/web接口
 
 刚体动力学库搜集：[Survey of Multibody Dynamics Software (rpi.edu)](http://www.cs.rpi.edu/~trink/sim_packages.html)
 
-Matrix Calculus：http://www.matrixcalculus.org/ 在线矩阵计算
+Matrix Calculus：[http://www.matrixcalculus.org/](http://www.matrixcalculus.org/) 在线矩阵计算
 
-**商业软件：**
+商业软件：
 
-Houdini：https://www.sidefx.com/
+Houdini：[https://www.sidefx.com/](https://www.sidefx.com/)
 
-Blender：https://www.blender.org/ 开源、免费
+Blender：[https://www.blender.org/](https://www.blender.org/) 开源、免费
 
-MAYA：https://www.autodesk.com/products/maya/
+MAYA：[https://www.autodesk.com/products/maya/](https://www.autodesk.com/products/maya/)
 
-Unity：https://unity.com/
+Unity：[https://unity.com/](https://unity.com/)
 
-Unreal Engine：https://www.unrealengine.com/
+Unreal Engine：[https://www.unrealengine.com/](https://www.unrealengine.com/)
 
-**求解器：**
+求解器：
 
 Eigen：[eigen.tuxfamily.org](https://eigen.tuxfamily.org/index.php?title=Main_Page) 线性代数库，稠密/稀疏线性系统解算，纯C++头文件实现
 
 Intel MKL：[Intel® oneAPI Math Kernel Library](https://www.intel.com/content/www/us/en/developer/tools/oneapi/onemkl.html) 英特尔的数学核心函数库
 
-PARDISO：https://www.pardiso-project.org/ 大规模稀疏线性系统求解，提供C/C++, Julia, Fortran, Matlab接口
+PARDISO：[https://www.pardiso-project.org/](https://www.pardiso-project.org/) 大规模稀疏线性系统求解，提供C/C++, Julia, Fortran, Matlab接口
 
-SuiteSparse：https://people.engr.tamu.edu/davis/suitesparse.html 大规模稀疏线性系统求解
+SuiteSparse：[https://people.engr.tamu.edu/davis/suitesparse.html](https://people.engr.tamu.edu/davis/suitesparse.html) 大规模稀疏线性系统求解
 
 未完待续......
 
@@ -367,8 +372,6 @@ SuiteSparse：https://people.engr.tamu.edu/davis/suitesparse.html 大规模稀�
 
 [IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR)](https://ieeevr.org/)
 
-
-
 [ACM Transactions on Graphics (TOG)](https://dl.acm.org/journal/tog)
 
 [IEEE Transactions on Visualization and Computer Graphics (TVCG)](https://www.computer.org/csdl/journal/tg)
@@ -387,4 +390,4 @@ SuiteSparse：https://people.engr.tamu.edu/davis/suitesparse.html 大规模稀�
 
 [Computational Visual Media](https://www.springer.com/journal/41095/) (CVMJ)
 
-感谢 [@Xayah](https://www.zhihu.com/people/f85784fe67a5105f265aed3a791f2c8d) [@胡虎互护呼](https://www.zhihu.com/people/81508c1d5969bb797f8e3f9c94acf68b) 的补充！
+感谢 [@Xayah](https://www.zhihu.com/people/f85784fe67a5105f265aed3a791f2c8d)[@胡虎互护呼](https://www.zhihu.com/people/81508c1d5969bb797f8e3f9c94acf68b) 的补充！
