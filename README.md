@@ -124,6 +124,11 @@
 
 [Theodore Kim](https://www.tkim.graphics/)（Yale）
 
+[Matthias Teschner](https://cg.informatik.uni-freiburg.de/teschner.htm)（University of Freiburg）
+
+[Eftychios Sifakis](https://pages.cs.wisc.edu/~sifakis/)（UW-Madison）
+
+
 [@禹鹏](https://www.zhihu.com/people/87feef9df8867f554d7e3b05ef36fe2e) 大佬整理的[物理仿真谱系](https://naotu.baidu.com/file/eb1a5ebf45eac4eb4c783aae20bf662e?token=6333ba7d098d633c)
 
 未完待续......
