@@ -375,7 +375,7 @@ SuiteSparse：[https://people.engr.tamu.edu/davis/suitesparse.html](https://peop
 
 [The ACM SIGGRAPH Conference on Motion, Interaction and Games (MIG)](https://mig2021.inria.fr/submission/)
 
-[IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR)](https://ieeevr.org/)
+[IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR)](https://ieeevr.org/)    
 
 
 
