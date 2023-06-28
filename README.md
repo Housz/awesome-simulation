@@ -4,7 +4,7 @@
 
 ## 1 课程
 
-图形学入门：
+**图形学入门：**
 
 【闫令琪】[GAMES101: 现代计算机图形学入门](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
 
@@ -12,7 +12,7 @@
 
 【[OpenGL](https://learnopengl-cn.github.io/)】[LearnOpenGL CN (learnopengl-cn.github.io)](https://learnopengl-cn.github.io/) 最好的OpenGL入门教程
 
-物理模拟：
+**物理模拟：**
 
 【王华民】[GAMES103：基于物理的计算机动画入门](http://games-cn.org/games103/) 包括：数学背景知识、刚体、质点弹簧系统、约束、碰撞、软体与有限元、流体等，对新手比较友好。四个作业（刚体、布料、柔性体、流体）采用Unity平台，较容易上手。
 
@@ -40,7 +40,7 @@
 
 【何小伟】[GAMES401-泛动引擎(PeriDyno)物理仿真编程与实践（更新中）](https://www.bilibili.com/video/BV15M4y1U76M/) 基于PeriDyno泛动引擎项目的编程实践课，包括：PeriDyno代码介绍、GPU编程入门和CUDA简介、图形学常用几何算法、刚体动力学并行编程、SPH并行编程、近场动力学并行编程、Vulkan入门等。
 
-数学基础：
+**数学基础：**
 
 矩阵计算基础：[GAMES103数学基础](http://games-cn.org/games103/)[3Blue1Brown线性代数的本质](https://www.bilibili.com/video/BV1ys411472E?spm_id_from=333.999.0.0)[矩阵求导术](https://zhuanlan.zhihu.com/p/24709748)[Numerical Recipes](http://numerical.recipes/book/book.html)[wiki Matrix_calculus](https://en.m.wikipedia.org/wiki/Matrix_calculus)
 
@@ -139,7 +139,7 @@
 
 未完待续......
 
-研究团队
+**研究团队**
 
 [Stanford Computer Graphics Laboratory](https://graphics.stanford.edu/)（Stanford）
 
@@ -221,7 +221,7 @@ GAMES103 课程王华民老师推荐的文献：
 
 ## 5 Topics & Methods
 
-刚体（Rigid Body）
+**刚体（Rigid Body）**
 
 [Interactive Simulation of Rigid Body Dynamics in Computer Graphics](http://diglib.eg.org/bitstream/handle/10.2312/conf.EG2012.stars.095-134/095-134.pdf?sequence=1&isAllowed=y)
 
@@ -233,27 +233,27 @@ Position Based Dynamics
 
 [A Survey on Position-Based Simulation Methods in Computer Graphics](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.491.1850&rep=rep1&type=pdf)
 
-MPM
+**MPM**
 
 [The Material Point Method for Simulating Continuum Materials](https://www.math.ucla.edu/~cffjiang/research/mpmcourse/mpmcourse.pdf)
 
-FEM
+**FEM**
 
 [FEM Simulation of 3D Deformable Solids: A practitioner&#39;s guide to theory, discretization and model reduction](http://www.femdefo.org/)
 
-能量优化视角（Fast Mass-Spring, Projective Dynamics, Quasi-Newton, ADMM ......）
+**能量优化视角**（Fast Mass-Spring, Projective Dynamics, Quasi-Newton, ADMM ......）
 
 [2019年（第八届）中国科学技术大学《计算机图形学前沿》暑期课程 P5 刘天添](https://www.bilibili.com/video/BV1hM4y1L7VY?p=5)
 
-流体（Fluid）
+**流体（Fluid）**
 
 [Fluid Engine Development](https://www.routledge.com/Fluid-Engine-Development/Kim/p/book/9781498719926) 配套流体模拟库：[Fluid Engine Dev](https://github.com/doyubkim/fluid-engine-dev)
 
-SPH
+**SPH**
 
 【Eurographics Tutorial, 2019】[Smoothed Particle Hydrodynamics Techniques for the Physics Based Simulation of Fluids and Solids](https://interactivecomputergraphics.github.io/SPH-Tutorial/)Dan Koschier, Jan Bender, Barbara Solenthaler, Matthias Teschner  包括：SPH理论基础、近邻搜索、不可压缩性、边界处理、多相流体、粘度、涡度、SPlisHSPlasH开源库、可变形固体、刚体、数据驱动技术。
 
-中科大暑期课程计算机图形学前沿进展 物理模拟相关讲座
+**中科大暑期课程计算机图形学前沿进展 物理模拟相关讲座**
 
 官网：[计算机图形学前沿进展](http://staff.ustc.edu.cn/~renjiec/SummerSchool_2022/index.html)    视频：[哔哩哔哩](https://space.bilibili.com/1598639097/)
 
@@ -283,7 +283,7 @@ SPH
 
 [NumericalProjectsCollections](https://github.com/clatterrr/NumericalProjectsCollections)： [@胡虎互护呼](https://www.zhihu.com/people/81508c1d5969bb797f8e3f9c94acf68b) 大佬整理的图形学领域开源代码
 
-开源引擎/代码库：
+**开源引擎/代码库：**
 
 Taichi：[Taichi Graphics](https://taichi.graphics/) 太极图形编程语言 [@太极图形](https://www.zhihu.com/people/458c690a3722fd38ffd3d3dcadcf8b13)
 
@@ -343,7 +343,7 @@ SimpleSimulationEngine： [github.com/ProkopHapala/SimpleSimulationEngine](https
 
 Matrix Calculus：[http://www.matrixcalculus.org/](http://www.matrixcalculus.org/) 在线矩阵计算
 
-商业软件：
+**商业软件：**
 
 Houdini：[https://www.sidefx.com/](https://www.sidefx.com/)
 
@@ -355,7 +355,7 @@ Unity：[https://unity.com/](https://unity.com/)
 
 Unreal Engine：[https://www.unrealengine.com/](https://www.unrealengine.com/)
 
-求解器：
+**求解器：**
 
 Eigen：[eigen.tuxfamily.org](https://eigen.tuxfamily.org/index.php?title=Main_Page) 线性代数库，稠密/稀疏线性系统解算，纯C++头文件实现
 
