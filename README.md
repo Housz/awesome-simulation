@@ -36,6 +36,10 @@
 
 【Jernej Barbič】[CSCI 520 Computer Animation and Simulation](https://viterbi-web.usc.edu/~jbarbic/cs520-s22/)
 
+【小彭老师】[高性能并行编程与优化系列课程](https://www.bilibili.com/video/BV1fa411r7zp/)，持续更新，包括CMake、现代C++技术（智能指针、模板、函数式、多线程、STL等）、编译器优化、TBB、访存优化、CUDA、稀疏数据结构和量化数据类型、现代OpenGL等。
+
+【何小伟】[GAMES401-泛动引擎(PeriDyno)物理仿真编程与实践（更新中）](https://www.bilibili.com/video/BV15M4y1U76M/) 基于PeriDyno泛动引擎项目的编程实践课，包括：PeriDyno代码介绍、GPU编程入门和CUDA简介、图形学常用几何算法、刚体动力学并行编程、SPH并行编程、近场动力学并行编程、Vulkan入门等。
+
 数学基础：
 
 矩阵计算基础：[GAMES103数学基础](http://games-cn.org/games103/)[3Blue1Brown线性代数的本质](https://www.bilibili.com/video/BV1ys411472E?spm_id_from=333.999.0.0)[矩阵求导术](https://zhuanlan.zhihu.com/p/24709748)[Numerical Recipes](http://numerical.recipes/book/book.html)[wiki Matrix_calculus](https://en.m.wikipedia.org/wiki/Matrix_calculus)
@@ -77,6 +81,8 @@
 [高明](https://mingg13.github.io/) （Tencent）
 
 [朱博](https://cs.dartmouth.edu/~bozhu/)（Dartmouth）
+
+[何小伟](http://peridynamics.com/index.html)（中科院）
 
 [Libin Liu](http://libliu.info/)（北大）
 
