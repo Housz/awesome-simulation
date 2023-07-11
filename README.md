@@ -26,7 +26,7 @@
 
 【Eitan Grinspun】[Animation and CGI Motion](https://learning.edx.org/course/course-v1:ColumbiaX+CSMM.104x+1T2017/home) （仅在edX平台）Eitan大神讲得很细，手推公式，对初学者非常友好。包括：OED数值积分入门，拉格朗日力学视角，碰撞、接触与摩擦，连续介质力学，有限元，刚体，薄壳与布料，绳子与头发，流体等。
 
-【Matthias Müller】[Ten Minute Physics](https://matthias-research.github.io/pages/tenMinutePhysics/index.html) （更新中）特点是提供JavaScript实现代码，容易上手。
+【Matthias Müller】[Ten Minute Physics](https://matthias-research.github.io/pages/tenMinutePhysics/index.html) （更新中）特点是提供JavaScript实现代码，容易上手。包括：JavaScript动画和交互基础、基础3D数学、PBD/XPBD、PBD软体和加速、邻域搜索（spatial hashing）、blender脚本、PBD布料和自碰撞、GPU编程基础（NVIDIA Warp Python）、欧拉视角流体（Semi-Lagrangian）、混合视角流体（PIC、FLIP）、微分方程基础、高度场流体等。
 
 【Adam Bargteil】[SIGGRAPH&#39;19 Course: An Introduction to Physics-Based Animation](https://www.youtube.com/watch?v=b_WJ-HwalwU&ab_channel=ACMSIGGRAPH) Siggraph2019课程，介绍了物理模拟的基本概念，有配套文档。
 
