@@ -1,6 +1,6 @@
 整理一下基于物理的模拟/动画（Physics based simulation/animation）方向的课程、研究者、文献和代码等资源。持续更新，欢迎补充！
 
-[GitHub: github.com/Housz/GraphicsSimulation](https://github.com/Housz/GraphicsSimulation)
+[GitHub: github.com/Housz/awesome-simulation](https://github.com/Housz/awesome-simulation) 
 
 ## 1 课程
 
