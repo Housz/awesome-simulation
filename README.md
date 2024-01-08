@@ -165,7 +165,7 @@
 
 【SIGGRAPH Courses等资源】 [https://blog.selfshadow.com/](https://blog.selfshadow.com/)
 
-【物理仿真论文集合】[Computer Graphics and Simulation | Research Results](https://iphys.wordpress.com/)
+【物理仿真论文集合】[Computer Graphics and Simulation Research Results](https://iphys.wordpress.com/)
 
 【物理仿真代码 SPH PBD等】[Home (interactive-graphics.de)](https://interactive-graphics.de/)
 
