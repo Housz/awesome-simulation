@@ -40,6 +40,8 @@
 
 【何小伟】[GAMES401-泛动引擎(PeriDyno)物理仿真编程与实践（更新中）](https://www.bilibili.com/video/BV15M4y1U76M/) 基于PeriDyno泛动引擎项目的编程实践课，包括：PeriDyno代码介绍、GPU编程入门和CUDA简介、图形学常用几何算法、刚体动力学并行编程、SPH并行编程、近场动力学并行编程、Vulkan入门等。
 
+【李旻辰】[Physics-based Animation of Solids and Fluids](http://www.cs.cmu.edu/~15769-f23/) CMU物理仿真研讨课，内容包括：优化式时间积分，质点弹簧系统，FEM，IPC，布料，刚体，降维仿真，拉格朗日流体，PIC/FLIP，MPM
+
 **数学基础：**
 
 矩阵计算基础：[GAMES103数学基础](http://games-cn.org/games103/)[3Blue1Brown线性代数的本质](https://www.bilibili.com/video/BV1ys411472E?spm_id_from=333.999.0.0)[矩阵求导术](https://zhuanlan.zhihu.com/p/24709748)[Numerical Recipes](http://numerical.recipes/book/book.html)[wiki Matrix_calculus](https://en.m.wikipedia.org/wiki/Matrix_calculus)
@@ -68,7 +70,7 @@
 
 [张心欣](https://zhxx1987.github.io/) （UBC, 泽森科工） [@张心欣](https://www.zhihu.com/people/9d0cd62f9071c2b003b2ef7b017fb7f5)
 
-[李旻辰](https://www.math.ucla.edu/~minchen/) （UCLA） [@Minchern](https://www.zhihu.com/people/9f3ee58deeb19551bd92d9591e4503d7)
+[李旻辰](https://www.cs.cmu.edu/~minchenl/) （CMU） [@Minchen Li](https://www.zhihu.com/people/9f3ee58deeb19551bd92d9591e4503d7)
 
 [费昀](http://yunfei.work/) （Adobe） [@Raymond Fei](https://www.zhihu.com/people/ecf74d1b95762c56eebfe55935655e26)
 
@@ -78,9 +80,9 @@
 
 [唐敏](https://min-tang.github.io/home/Data/contact-ch.html)（浙大）
 
-[高明](https://mingg13.github.io/) （Tencent）
+[高明](https://mingg13.github.io/) （米哈游）
 
-[朱博](https://cs.dartmouth.edu/~bozhu/)（Dartmouth）
+[朱博](https://cs.dartmouth.edu/~bozhu/)（GaTech）
 
 [何小伟](http://peridynamics.com/index.html)（中科院）
 
@@ -96,7 +98,7 @@
 
 [Demetri Terzopoulos](http://web.cs.ucla.edu/~dt/)（UCLA）
 
-[Joseph Teran](https://www.math.ucla.edu/~jteran/)（UCLA）
+[Joseph Teran](https://www.math.ucla.edu/~jteran/)（UC Davis）
 
 [Markus Gross](https://cgl.ethz.ch/people/grossm/) （ETH Zurich）
 
@@ -120,7 +122,7 @@
 
 [C. Karen Liu](https://ckllab.stanford.edu/) （Stanford）机器人，强化学习
 
-[Xue Bin (Jason) Peng](https://xbpeng.github.io/) （UC Berkeley）机器人，强化学习
+[Xue Bin (Jason) Peng](https://xbpeng.github.io/) （Simon Fraser University）机器人，强化学习
 
 [Shinjiro Sueda](https://people.engr.tamu.edu/sueda/index.html) （Texas A&M University）机器人、弹性体
 
