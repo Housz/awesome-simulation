@@ -89,7 +89,7 @@
 
 [何小伟](http://peridynamics.com/index.html)（中科院）
 
-[刘利斌](http://libliu.info/)（北大）
+[刘利斌](http://libliu.info/)（北大）《[GAMES105：计算机角色动画基础](https://games-105.github.io/)》课程
 
 [李一飞](https://people.csail.mit.edu/liyifei/)（MIT）
 
@@ -414,3 +414,4 @@ SuiteSparse：[https://people.engr.tamu.edu/davis/suitesparse.html](https://peop
 [Computational Visual Media](https://www.springer.com/journal/41095/) (CVMJ)
 
 感谢 [@Xayah](https://www.zhihu.com/people/f85784fe67a5105f265aed3a791f2c8d)[@胡虎互护呼](https://www.zhihu.com/people/81508c1d5969bb797f8e3f9c94acf68b) 的补充！
+感谢 [@Minchen Li](https://www.zhihu.com/people/9f3ee58deeb19551bd92d9591e4503d7)老师的补充！
