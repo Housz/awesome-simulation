@@ -20,6 +20,12 @@
 
 【刘天添】[太极图形课](https://space.bilibili.com/1779922645?from=search&seid=3236551890279933972&spm_id_from=333.337.0.0) 采用Taichi语言的图形学课程。包括：图形学介绍、编程基础、Taichi数据结构和性能、动画基础、光线追踪、弹性体（时间积分、有限元、能量求导、隐式积分与线性系统求解）、流体（拉格朗日视角、欧拉视角）等。有作业和答疑。
 
+【何小伟】[GAMES401-泛动引擎(PeriDyno)物理仿真编程与实践（更新中）](https://www.bilibili.com/video/BV15M4y1U76M/) 基于PeriDyno泛动引擎项目的编程实践课，包括：PeriDyno代码介绍、GPU编程入门和CUDA简介、图形学常用几何算法、刚体动力学并行编程、SPH并行编程、近场动力学并行编程、Vulkan入门等。
+
+【李旻辰】[Physics-based Animation of Solids and Fluids](http://www.cs.cmu.edu/~15769-f23/) CMU物理仿真研讨课，内容包括：优化式时间积分，质点弹簧系统，FEM，IPC，布料，刚体，降维仿真，拉格朗日流体，PIC/FLIP，MPM
+
+【小彭老师】[高性能并行编程与优化系列课程](https://www.bilibili.com/video/BV1fa411r7zp/)，持续更新，包括CMake、现代C++技术（智能指针、模板、函数式、多线程、STL等）、编译器优化、TBB、访存优化、CUDA、稀疏数据结构和量化数据类型、现代OpenGL等。
+
 【王希】[GAMES104-现代游戏引擎](https://www.bilibili.com/video/BV1oU4y1R7Km) 第10、11课介绍游戏引擎中的物理系统；第8、9课介绍游戏引擎中的动画技术。
 
 【Ladislav Kavan】[CIS563 Physics based Animation (2014)](https://www.youtube.com/watch?v=Q0D3tUViO6Y&list=PL_a9tY9IhJuM2dIVCH_ZC0Pn5871eDY7_&ab_channel=LadislavKavan) Ladislav的课都是手推公式，很细致。包括：质点弹簧系统、PBD、Shape Matching、PDE基础、FEM、Projective Dynamics、刚体、碰撞等。[CIS563 Physics based Animation (2015)](https://www.youtube.com/watch?v=Zw81lwV65wk&list=PL_a9tY9IhJuPuw5nu-WU7mG8T8MiX4JnY&ab_channel=LadislavKavan) 新增了流体等内容。[补充内容（刘天添）](https://www.youtube.com/user/ltt1598/videos)[CS6660 Physics based Animation (2017)](https://www.youtube.com/watch?v=sSKyQIxdhdA&list=PL_a9tY9IhJuPc7e6r-3DMw_PbYbloKoWM&ab_channel=LadislavKavan) 加入了拉格朗日/哈密顿力学的视角。
@@ -36,11 +42,8 @@
 
 【Jernej Barbič】[CSCI 520 Computer Animation and Simulation](https://viterbi-web.usc.edu/~jbarbic/cs520-s22/)
 
-【小彭老师】[高性能并行编程与优化系列课程](https://www.bilibili.com/video/BV1fa411r7zp/)，持续更新，包括CMake、现代C++技术（智能指针、模板、函数式、多线程、STL等）、编译器优化、TBB、访存优化、CUDA、稀疏数据结构和量化数据类型、现代OpenGL等。
+【Jan Bender】[Physics Simulation in Visual Computing](https://interactivecomputergraphics.github.io/physics-simulation/)
 
-【何小伟】[GAMES401-泛动引擎(PeriDyno)物理仿真编程与实践（更新中）](https://www.bilibili.com/video/BV15M4y1U76M/) 基于PeriDyno泛动引擎项目的编程实践课，包括：PeriDyno代码介绍、GPU编程入门和CUDA简介、图形学常用几何算法、刚体动力学并行编程、SPH并行编程、近场动力学并行编程、Vulkan入门等。
-
-【李旻辰】[Physics-based Animation of Solids and Fluids](http://www.cs.cmu.edu/~15769-f23/) CMU物理仿真研讨课，内容包括：优化式时间积分，质点弹簧系统，FEM，IPC，布料，刚体，降维仿真，拉格朗日流体，PIC/FLIP，MPM
 
 **数学基础：**
 
@@ -82,29 +85,31 @@
 
 [高明](https://mingg13.github.io/) （米哈游）
 
-[朱博](https://cs.dartmouth.edu/~bozhu/)（GaTech）
+[朱博](https://faculty.cc.gatech.edu/~bozhu/)（GaTech）
 
 [何小伟](http://peridynamics.com/index.html)（中科院）
 
-[Libin Liu](http://libliu.info/)（北大）
+[刘利斌](http://libliu.info/)（北大）
 
-[Ladislav Kavan](https://www.cs.utah.edu/~ladislav/)（University of Utah, Facebook）柔性体、数值方法等
-
-[Eitan Grinspun](https://www.dgp.toronto.edu/~eitan/)（University of Toronto）几何、物理等
-
-[Robert Bridson](https://www.cs.ubc.ca/~rbridson/)（UBC）动画、物理等
+[李一飞](https://people.csail.mit.edu/liyifei/)（MIT）
 
 [David Baraff](http://www.cs.cmu.edu/~baraff/)；[Andrew Witkin](https://www.cs.cmu.edu/afs/cs.cmu.edu/user/aw/www/index.html) （CMU, Pixar）两位上古大神，宗师级人物
 
 [Demetri Terzopoulos](http://web.cs.ucla.edu/~dt/)（UCLA）
 
-[Joseph Teran](https://www.math.ucla.edu/~jteran/)（UC Davis）
+[Eitan Grinspun](https://www.dgp.toronto.edu/~eitan/)（University of Toronto）几何、物理等
+
+[Ladislav Kavan](https://www.cs.utah.edu/~ladislav/)（University of Utah, Facebook）柔性体、数值方法等
+
+[Robert Bridson](https://www.cs.ubc.ca/~rbridson/)（UBC, Autodesk）流体等，《Fluid Simulation for Computer Graphics》作者
+
+[Joseph Teran](https://math.ucdavis.edu/~jteran/)（UC Davis）
 
 [Markus Gross](https://cgl.ethz.ch/people/grossm/) （ETH Zurich）
 
-[Jos Stam](https://www.josstam.com/)（Nvidia）
+[Jos Stam](https://www.josstam.com/)（Nvidia）Semi-Lagrangian提出者，《The Art of Fluid Animation》作者
 
-[Jan Bender](https://animation.rwth-aachen.de/person/1/)（RWTH Aachen University）SPH
+[Jan Bender](https://animation.rwth-aachen.de/person/1/)（RWTH Aachen University）SPH，柔性体等
 
 [Matthias Müller](https://matthias-research.github.io/pages/) ； [Miles Macklin](http://blog.mmacklin.com/) （NVIDIA）PBD
 
@@ -113,18 +118,6 @@
 [Paul G. Kry](https://www.cs.mcgill.ca/~kry/) （McGill University）[Sheldon Andrews](http://profs.etsmtl.ca/sandrews/) （École de technologie supérieure） 刚体、接触摩擦等
 
 [Jernej Barbic](https://viterbi-web.usc.edu/~jbarbic/)（USC）
-
-[Kenny Erleben](https://iphys.wordpress.com/)（University of Copenhagen）刚体，机器人
-
-[Jeff Trinkle](https://engineering.lehigh.edu/faculty/jeffrey-c-trinkle) （Lehigh University）刚体，机器人
-
-[Roy Featherstone](http://royfeatherstone.org/) （Italian Institute of Technology）刚体，机器人
-
-[C. Karen Liu](https://ckllab.stanford.edu/) （Stanford）机器人，强化学习
-
-[Xue Bin (Jason) Peng](https://xbpeng.github.io/) （Simon Fraser University）机器人，强化学习
-
-[Shinjiro Sueda](https://people.engr.tamu.edu/sueda/index.html) （Texas A&M University）机器人、弹性体
 
 [David I.W. Levin](http://142.93.146.228/researchdb/#aboutme) （University of Toronto）
 
@@ -135,6 +128,20 @@
 [Matthias Teschner](https://cg.informatik.uni-freiburg.de/teschner.htm)（University of Freiburg）
 
 [Eftychios Sifakis](https://pages.cs.wisc.edu/~sifakis/)（UW-Madison）
+
+[Kenny Erleben](https://iphys.wordpress.com/)（University of Copenhagen）《[Physics-Based Animation](https://iphys.wordpress.com/2020/01/12/free-textbook-physics-based-animation/)》作者
+
+[Jeff Trinkle](https://engineering.lehigh.edu/faculty/jeffrey-c-trinkle) （Lehigh University）刚体，机器人
+
+[Doyub Kim](https://doyub.com/)《Fluid Engine Development》作者
+
+[Roy Featherstone](http://royfeatherstone.org/) （Italian Institute of Technology）刚体，机器人
+
+[C. Karen Liu](https://ckllab.stanford.edu/) （Stanford）机器人，强化学习
+
+[Xue Bin (Jason) Peng](https://xbpeng.github.io/) （Simon Fraser University）机器人，强化学习
+
+[Shinjiro Sueda](https://people.engr.tamu.edu/sueda/index.html) （Texas A&M University）机器人、弹性体
 
 
 [@禹鹏](https://www.zhihu.com/people/87feef9df8867f554d7e3b05ef36fe2e) 大佬整理的[物理仿真谱系](https://naotu.baidu.com/file/eb1a5ebf45eac4eb4c783aae20bf662e?token=6333ba7d098d633c)
@@ -231,7 +238,7 @@ GAMES103 课程王华民老师推荐的文献：
 
 [Sheldon Andrews &amp; Kenny Erleben SIGGRAPH&#39;21 Course: Contact and Friction Simulation for Computer Graphics](https://siggraphcontact.github.io/) Siggraph2021课程，介绍接触与摩擦。包括：接触和摩擦的理论、算法，线性互补问题（LCP）等。
 
-Position Based Dynamics
+**Position Based Dynamics** 
 
 [A Survey on Position-Based Simulation Methods in Computer Graphics](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.491.1850&rep=rep1&type=pdf)
 
