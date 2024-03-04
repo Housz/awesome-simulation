@@ -91,6 +91,8 @@
 
 [刘利斌](http://libliu.info/)（北大）《[GAMES105：计算机角色动画基础](https://games-105.github.io/)》课程
 
+[刘晓培](https://faculty.sist.shanghaitech.edu.cn/faculty/liuxp/index_ch.htm)（上科大）
+
 [李一飞](https://people.csail.mit.edu/liyifei/)（MIT）
 
 [David Baraff](http://www.cs.cmu.edu/~baraff/)；[Andrew Witkin](https://www.cs.cmu.edu/afs/cs.cmu.edu/user/aw/www/index.html) （CMU, Pixar）两位上古大神，宗师级人物
