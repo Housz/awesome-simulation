@@ -1,4 +1,4 @@
-整理一下基于物理的模拟/动画（Physics based simulation/animation）方向的课程、研究者、文献和代码等资源。持续更新，欢迎补充！
+整理一下基于物理的模拟/动画（Physics based simulation/animation）方向的课程、研究者、文献和代码等资源.持续更新，欢迎补充！
 
 [GitHub: github.com/Housz/awesome-simulation](https://github.com/Housz/awesome-simulation) 
 
@@ -14,31 +14,31 @@
 
 **物理模拟：**
 
-【王华民】[GAMES103：基于物理的计算机动画入门](http://games-cn.org/games103/) 包括：数学背景知识、刚体、质点弹簧系统、约束、碰撞、软体与有限元、流体等，对新手比较友好。四个作业（刚体、布料、柔性体、流体）采用Unity平台，较容易上手。
+【王华民】[GAMES103：基于物理的计算机动画入门](http://games-cn.org/games103/) 包括：数学背景知识、刚体、质点弹簧系统、约束、碰撞、软体与有限元、流体等，对新手比较友好.四个作业（刚体、布料、柔性体、流体）采用Unity平台，较容易上手.
 
-【胡渊鸣】[GAMES201：高级物理引擎实战指南2020](http://games-cn.org/games201/) 深度广度都非常高，若没有数值计算背景上手难度较大。包括拉格朗日视角、欧拉视角、混合欧拉-拉格朗日视角、高性能物理引擎等话题。
+【胡渊鸣】[GAMES201：高级物理引擎实战指南2020](http://games-cn.org/games201/) 深度广度都非常高，若没有数值计算背景上手难度较大.包括拉格朗日视角、欧拉视角、混合欧拉-拉格朗日视角、高性能物理引擎等话题.
 
-【刘天添】[太极图形课](https://space.bilibili.com/1779922645?from=search&seid=3236551890279933972&spm_id_from=333.337.0.0) 采用Taichi语言的图形学课程。包括：图形学介绍、编程基础、Taichi数据结构和性能、动画基础、光线追踪、弹性体（时间积分、有限元、能量求导、隐式积分与线性系统求解）、流体（拉格朗日视角、欧拉视角）等。有作业和答疑。
+【刘天添】[太极图形课](https://space.bilibili.com/1779922645?from=search&seid=3236551890279933972&spm_id_from=333.337.0.0) 采用Taichi语言的图形学课程.包括：图形学介绍、编程基础、Taichi数据结构和性能、动画基础、光线追踪、弹性体（时间积分、有限元、能量求导、隐式积分与线性系统求解）、流体（拉格朗日视角、欧拉视角）等.有作业和答疑.
 
-【何小伟】[GAMES401-泛动引擎(PeriDyno)物理仿真编程与实践（更新中）](https://www.bilibili.com/video/BV15M4y1U76M/) 基于PeriDyno泛动引擎项目的编程实践课，包括：PeriDyno代码介绍、GPU编程入门和CUDA简介、图形学常用几何算法、刚体动力学并行编程、SPH并行编程、近场动力学并行编程、Vulkan入门等。
+【何小伟】[GAMES401-泛动引擎(PeriDyno)物理仿真编程与实践（更新中）](https://www.bilibili.com/video/BV15M4y1U76M/) 基于PeriDyno泛动引擎项目的编程实践课，包括：PeriDyno代码介绍、GPU编程入门和CUDA简介、图形学常用几何算法、刚体动力学并行编程、SPH并行编程、近场动力学并行编程、Vulkan入门等.
 
 【李旻辰】[Physics-based Animation of Solids and Fluids](http://www.cs.cmu.edu/~15769-f23/) CMU物理仿真研讨课，内容包括：优化式时间积分，质点弹簧系统，FEM，IPC，布料，刚体，降维仿真，拉格朗日流体，PIC/FLIP，MPM
 
-【小彭老师】[高性能并行编程与优化系列课程](https://www.bilibili.com/video/BV1fa411r7zp/)，持续更新，包括CMake、现代C++技术（智能指针、模板、函数式、多线程、STL等）、编译器优化、TBB、访存优化、CUDA、稀疏数据结构和量化数据类型、现代OpenGL等。
+【小彭老师】[高性能并行编程与优化系列课程](https://www.bilibili.com/video/BV1fa411r7zp/)，持续更新，包括CMake、现代C++技术（智能指针、模板、函数式、多线程、STL等）、编译器优化、TBB、访存优化、CUDA、稀疏数据结构和量化数据类型、现代OpenGL等.
 
-【王希】[GAMES104-现代游戏引擎](https://www.bilibili.com/video/BV1oU4y1R7Km) 第10、11课介绍游戏引擎中的物理系统；第8、9课介绍游戏引擎中的动画技术。
+【王希】[GAMES104-现代游戏引擎](https://www.bilibili.com/video/BV1oU4y1R7Km) 第10、11课介绍游戏引擎中的物理系统；第8、9课介绍游戏引擎中的动画技术.
 
-【Ladislav Kavan】[CIS563 Physics based Animation (2014)](https://www.youtube.com/watch?v=Q0D3tUViO6Y&list=PL_a9tY9IhJuM2dIVCH_ZC0Pn5871eDY7_&ab_channel=LadislavKavan) Ladislav的课都是手推公式，很细致。包括：质点弹簧系统、PBD、Shape Matching、PDE基础、FEM、Projective Dynamics、刚体、碰撞等。[CIS563 Physics based Animation (2015)](https://www.youtube.com/watch?v=Zw81lwV65wk&list=PL_a9tY9IhJuPuw5nu-WU7mG8T8MiX4JnY&ab_channel=LadislavKavan) 新增了流体等内容。[补充内容（刘天添）](https://www.youtube.com/user/ltt1598/videos)[CS6660 Physics based Animation (2017)](https://www.youtube.com/watch?v=sSKyQIxdhdA&list=PL_a9tY9IhJuPc7e6r-3DMw_PbYbloKoWM&ab_channel=LadislavKavan) 加入了拉格朗日/哈密顿力学的视角。
+【Ladislav Kavan】[CIS563 Physics based Animation (2014)](https://www.youtube.com/watch?v=Q0D3tUViO6Y&list=PL_a9tY9IhJuM2dIVCH_ZC0Pn5871eDY7_&ab_channel=LadislavKavan) Ladislav的课都是手推公式，很细致.包括：质点弹簧系统、PBD、Shape Matching、PDE基础、FEM、Projective Dynamics、刚体、碰撞等.[CIS563 Physics based Animation (2015)](https://www.youtube.com/watch?v=Zw81lwV65wk&list=PL_a9tY9IhJuPuw5nu-WU7mG8T8MiX4JnY&ab_channel=LadislavKavan) 新增了流体等内容.[补充内容（刘天添）](https://www.youtube.com/user/ltt1598/videos)[CS6660 Physics based Animation (2017)](https://www.youtube.com/watch?v=sSKyQIxdhdA&list=PL_a9tY9IhJuPc7e6r-3DMw_PbYbloKoWM&ab_channel=LadislavKavan) 加入了拉格朗日/哈密顿力学的视角.
 
-【Eitan Grinspun】[Animation and CGI Motion](https://learning.edx.org/course/course-v1:ColumbiaX+CSMM.104x+1T2017/home) （仅在edX平台）Eitan大神讲得很细，手推公式，对初学者非常友好。包括：OED数值积分入门，拉格朗日力学视角，碰撞、接触与摩擦，连续介质力学，有限元，刚体，薄壳与布料，绳子与头发，流体等。
+【Eitan Grinspun】[Animation and CGI Motion](https://learning.edx.org/course/course-v1:ColumbiaX+CSMM.104x+1T2017/home) （仅在edX平台）Eitan大神讲得很细，手推公式，对初学者非常友好.包括：OED数值积分入门，拉格朗日力学视角，碰撞、接触与摩擦，连续介质力学，有限元，刚体，薄壳与布料，绳子与头发，流体等.
 
-【Matthias Müller】[Ten Minute Physics](https://matthias-research.github.io/pages/tenMinutePhysics/index.html) （更新中）特点是提供JavaScript实现代码，容易上手。包括：JavaScript动画和交互基础、基础3D数学、PBD/XPBD、PBD软体和加速、邻域搜索（spatial hashing）、blender脚本、PBD布料和自碰撞、GPU编程基础（NVIDIA Warp Python）、欧拉视角流体（Semi-Lagrangian）、混合视角流体（PIC、FLIP）、微分方程基础、高度场流体等。
+【Matthias Müller】[Ten Minute Physics](https://matthias-research.github.io/pages/tenMinutePhysics/index.html) （更新中）特点是提供JavaScript实现代码，容易上手.包括：JavaScript动画和交互基础、基础3D数学、PBD/XPBD、PBD软体和加速、邻域搜索（spatial hashing）、blender脚本、PBD布料和自碰撞、GPU编程基础（NVIDIA Warp Python）、欧拉视角流体（Semi-Lagrangian）、混合视角流体（PIC、FLIP）、微分方程基础、高度场流体等.
 
-【Adam Bargteil】[SIGGRAPH&#39;19 Course: An Introduction to Physics-Based Animation](https://www.youtube.com/watch?v=b_WJ-HwalwU&ab_channel=ACMSIGGRAPH) Siggraph2019课程，介绍了物理模拟的基本概念，有配套文档。
+【Adam Bargteil】[SIGGRAPH&#39;19 Course: An Introduction to Physics-Based Animation](https://www.youtube.com/watch?v=b_WJ-HwalwU&ab_channel=ACMSIGGRAPH) Siggraph2019课程，介绍了物理模拟的基本概念，有配套文档.
 
-【David I.W. Levin】[CSC417/CSC2549 Physics-Based Animation](https://github.com/dilevin/CSC417-physics-based-animation)[YouTube](https://www.youtube.com/channel/UCIM0HrQVDcUYdrZvSwuUJgA/videos)[bilibili](https://www.bilibili.com/video/BV1GB4y1u72S) 拉格朗日力学，质点弹簧系统，FEM，刚体、流体。
+【David I.W. Levin】[CSC417/CSC2549 Physics-Based Animation](https://github.com/dilevin/CSC417-physics-based-animation)[YouTube](https://www.youtube.com/channel/UCIM0HrQVDcUYdrZvSwuUJgA/videos)[bilibili](https://www.bilibili.com/video/BV1GB4y1u72S) 拉格朗日力学，质点弹簧系统，FEM，刚体、流体.
 
-【Doug L. James】[CS 5643: Physically Based Animation for Computer Graphics (2015)](https://www.cs.cornell.edu/courses/cs5643/2015sp/) 非常全面的课程，列出了每个方向的经典文献。包括：粒子、矩阵计算、约束动力学、SPH流体、PBF流体、数值积分、隐式求解、PBD、碰撞、刚体、刚体声音、流体、共轭梯度、Shape Matching、破碎、烟雾水体和火的控制、噪声与湍流、动画声音等。[Doug的其他课程](http://graphics.stanford.edu/~djames/teaching/)：[CS 448Z: Physically Based Animation and Sound (2021)](http://graphics.stanford.edu/courses/cs448z/)，[CS 248: Interactive Computer Graphics (2022)](https://gfxcourses.stanford.edu/cs248/winter22)，[CS 348C: Computer Graphics: Animation and Simulation (2022)](http://graphics.stanford.edu/courses/cs348c/)
+【Doug L. James】[CS 5643: Physically Based Animation for Computer Graphics (2015)](https://www.cs.cornell.edu/courses/cs5643/2015sp/) 非常全面的课程，列出了每个方向的经典文献.包括：粒子、矩阵计算、约束动力学、SPH流体、PBF流体、数值积分、隐式求解、PBD、碰撞、刚体、刚体声音、流体、共轭梯度、Shape Matching、破碎、烟雾水体和火的控制、噪声与湍流、动画声音等.[Doug的其他课程](http://graphics.stanford.edu/~djames/teaching/)：[CS 448Z: Physically Based Animation and Sound (2021)](http://graphics.stanford.edu/courses/cs448z/)，[CS 248: Interactive Computer Graphics (2022)](https://gfxcourses.stanford.edu/cs248/winter22)，[CS 348C: Computer Graphics: Animation and Simulation (2022)](http://graphics.stanford.edu/courses/cs348c/)
 
 【Jernej Barbič】[CSCI 520 Computer Animation and Simulation](https://viterbi-web.usc.edu/~jbarbic/cs520-s22/)
 
@@ -49,15 +49,15 @@
 
 矩阵计算基础：[GAMES103数学基础](http://games-cn.org/games103/)[3Blue1Brown线性代数的本质](https://www.bilibili.com/video/BV1ys411472E?spm_id_from=333.999.0.0)[矩阵求导术](https://zhuanlan.zhihu.com/p/24709748)[Numerical Recipes](http://numerical.recipes/book/book.html)[wiki Matrix_calculus](https://en.m.wikipedia.org/wiki/Matrix_calculus)
 
-数值分析基础：[数值分析2020春](https://www.bilibili.com/video/BV18741177td) 苏州大学张亚楠老师，深入浅出。教材参考李庆扬《数值分析》第四/五版。
+数值分析基础：[数值分析2020春](https://www.bilibili.com/video/BV18741177td) 苏州大学张亚楠老师，深入浅出.教材参考李庆扬《数值分析》第四/五版.
 
-数值分析进阶：[数值分析 中科大](https://www.bilibili.com/video/BV1T4411D7x5) 布朗大学舒其望。最强中文数值课程。
+数值分析进阶：[数值分析 中科大](https://www.bilibili.com/video/BV1T4411D7x5) 布朗大学舒其望.最强中文数值课程.
 
-最优化基础：[最优化理论与方法](https://space.bilibili.com/507629580) 上海财经崔雪婷老师。参考教材Stephan Boyd《凸优化》，Jorge Nocedal《Numerical Optimization》等。
+最优化基础：[最优化理论与方法](https://space.bilibili.com/507629580) 上海财经崔雪婷老师.参考教材Stephan Boyd《凸优化》，Jorge Nocedal《Numerical Optimization》等.
 
-最优化进阶：[Boyd斯坦福公开课](https://www.bilibili.com/video/BV1Pg4y187Ed) 优化之神Boyd带你谈笑风生。
+最优化进阶：[Boyd斯坦福公开课](https://www.bilibili.com/video/BV1Pg4y187Ed) 优化之神Boyd带你谈笑风生.
 
-科学计算基础：[EAS205 Applications of Scientific Computation (2014)](https://www.youtube.com/watch?v=Ikl1wnwIOmM&list=PL_a9tY9IhJuPDEDq97tq0uKXpsTZYBIXe&ab_channel=LadislavKavan) Ladislav Kavan的科学计算基础课程，包括向量矩阵计算、线性变换、线性系统、群论入门、向量空间、最小二乘、奇异值分解等。
+科学计算基础：[EAS205 Applications of Scientific Computation (2014)](https://www.youtube.com/watch?v=Ikl1wnwIOmM&list=PL_a9tY9IhJuPDEDq97tq0uKXpsTZYBIXe&ab_channel=LadislavKavan) Ladislav Kavan的科学计算基础课程，包括向量矩阵计算、线性变换、线性系统、群论入门、向量空间、最小二乘、奇异值分解等.
 
 ## 2 研究者、团队
 
@@ -192,9 +192,18 @@
 
 【物理模拟入门书】[Foundations of Physically Based Modeling and Animation](https://www.amazon.com/Foundations-Physically-Based-Modeling-Animation/dp/1482234602) (2017)
 
-中文版：[基于物理的建模与动画](https://book.douban.com/subject/35287308/) 目录：[白如冰](https://zhuanlan.zhihu.com/p/342390945)
+中文版：[《基于物理的建模与动画》](https://book.douban.com/subject/35287308/) 目录：[白如冰](https://zhuanlan.zhihu.com/p/342390945)
 
 【计算机动画入门书】[Computer Animation: Algorithms and Techniques](https://www.amazon.com/Computer-Animation-Algorithms-Rick-Parent-ebook/dp/B0094DY2XU) (2012) 中文版：[计算机动画算法与技术](https://book.douban.com/subject/30369027/)
+
+【流体入门书】
+
+* [Fluid Engine Development](https://www.routledge.com/Fluid-Engine-Development/Kim/p/book/9781498719926)，作者：[Doyub Kim](https://doyub.com/) ，配套流体模拟库：[Fluid Engine Dev](https://github.com/doyubkim/fluid-engine-dev)
+.中文版[《流体动画引擎开发：理论与实践》译者：杨丰](https://zhuanlan.zhihu.com/p/697111404)
+
+* [Fluid Simulation for Computer Graphics](https://www.routledge.com/Fluid-Simulation-for-Computer-Graphics/Bridson/p/book/9781482232837)，作者：[Robert Bridson](https://www.cs.ubc.ca/~rbridson/).
+
+* [The Art of Fluid Animation](https://www.josstam.com/publications)作者：[Jos Stam](https://www.josstam.com/).中文版[《流体动画的计算艺术》](https://book.douban.com/subject/30269335/).
 
 【布料】[Cloth Simulation for Computer Graphics](https://www.morganclaypool.com/toc/vcp/9/1)
 
@@ -238,7 +247,7 @@ GAMES103 课程王华民老师推荐的文献：
 
 [Featherstone: Rigid Body Dynamics Algorithms](https://link.springer.com/book/10.1007/978-1-4899-7560-7)
 
-[Sheldon Andrews &amp; Kenny Erleben SIGGRAPH&#39;21 Course: Contact and Friction Simulation for Computer Graphics](https://siggraphcontact.github.io/) Siggraph2021课程，介绍接触与摩擦。包括：接触和摩擦的理论、算法，线性互补问题（LCP）等。
+[Sheldon Andrews &amp; Kenny Erleben SIGGRAPH&#39;21 Course: Contact and Friction Simulation for Computer Graphics](https://siggraphcontact.github.io/) Siggraph2021课程，介绍接触与摩擦.包括：接触和摩擦的理论、算法，线性互补问题（LCP）等.
 
 **Position Based Dynamics** 
 
@@ -258,11 +267,11 @@ GAMES103 课程王华民老师推荐的文献：
 
 **流体（Fluid）**
 
-[Fluid Engine Development](https://www.routledge.com/Fluid-Engine-Development/Kim/p/book/9781498719926) 配套流体模拟库：[Fluid Engine Dev](https://github.com/doyubkim/fluid-engine-dev)
+
 
 **SPH**
 
-【Eurographics Tutorial, 2019】[Smoothed Particle Hydrodynamics Techniques for the Physics Based Simulation of Fluids and Solids](https://interactivecomputergraphics.github.io/SPH-Tutorial/)Dan Koschier, Jan Bender, Barbara Solenthaler, Matthias Teschner  包括：SPH理论基础、近邻搜索、不可压缩性、边界处理、多相流体、粘度、涡度、SPlisHSPlasH开源库、可变形固体、刚体、数据驱动技术。
+【Eurographics Tutorial, 2019】[Smoothed Particle Hydrodynamics Techniques for the Physics Based Simulation of Fluids and Solids](https://interactivecomputergraphics.github.io/SPH-Tutorial/)Dan Koschier, Jan Bender, Barbara Solenthaler, Matthias Teschner  包括：SPH理论基础、近邻搜索、不可压缩性、边界处理、多相流体、粘度、涡度、SPlisHSPlasH开源库、可变形固体、刚体、数据驱动技术.
 
 **中科大暑期课程计算机图形学前沿进展 物理模拟相关讲座**
 
