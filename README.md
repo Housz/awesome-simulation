@@ -196,6 +196,8 @@
 
 【计算机动画入门书】[Computer Animation: Algorithms and Techniques](https://www.amazon.com/Computer-Animation-Algorithms-Rick-Parent-ebook/dp/B0094DY2XU) (2012) 中文版：[计算机动画算法与技术](https://book.douban.com/subject/30369027/)
 
+【Physics-Based Simulation】[phys-sim-book.github.io](https://phys-sim-book.github.io/)，by Minchen Li & Chenfanfu Jiang
+
 【流体入门书】
 
 * [Fluid Engine Development](https://www.routledge.com/Fluid-Engine-Development/Kim/p/book/9781498719926)，作者：[Doyub Kim](https://doyub.com/) ，配套流体模拟库：[Fluid Engine Dev](https://github.com/doyubkim/fluid-engine-dev)
