@@ -59,6 +59,8 @@
 
 科学计算基础：[EAS205 Applications of Scientific Computation (2014)](https://www.youtube.com/watch?v=Ikl1wnwIOmM&list=PL_a9tY9IhJuPDEDq97tq0uKXpsTZYBIXe&ab_channel=LadislavKavan) Ladislav Kavan的科学计算基础课程，包括向量矩阵计算、线性变换、线性系统、群论入门、向量空间、最小二乘、奇异值分解等.
 
+数值计算书：《Numerical Recipes》，《Iterative methods for sparse linear systems》，《Matrix Computations》
+
 ## 2 研究者、团队
 
 [胡渊鸣](https://yuanming.taichi.graphics/) （MIT, 太极图形） [@胡渊鸣](https://www.zhihu.com/people/19787805e0d1f80fe5501ec60be84d6a)[99行代码的《冰雪奇缘》](https://zhuanlan.zhihu.com/p/97700605)
