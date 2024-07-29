@@ -59,7 +59,7 @@
 
 科学计算基础：[EAS205 Applications of Scientific Computation (2014)](https://www.youtube.com/watch?v=Ikl1wnwIOmM&list=PL_a9tY9IhJuPDEDq97tq0uKXpsTZYBIXe&ab_channel=LadislavKavan) Ladislav Kavan的科学计算基础课程，包括向量矩阵计算、线性变换、线性系统、群论入门、向量空间、最小二乘、奇异值分解等.
 
-数值计算书：《Numerical Recipes》，《Iterative methods for sparse linear systems》，《Matrix Computations》
+数值计算书：《Numerical Recipes》，《Matrix Computations》（中文版：《矩阵计算》），《Scientific Computing: An Introductory Survey》（中文版：《科学计算导论》），《Iterative methods for sparse linear systems》，《A multigrid tutorial》.
 
 ## 2 研究者、团队
 
@@ -358,6 +358,8 @@ PhysBAM：[http://physbam.stanford.edu/](http://physbam.stanford.edu/) 一个包
 mantaflow：[An extensible framework for fluid simulation](http://mantaflow.com/index.html) 流体
 
 Vega：[VEGA FEM LIBRARY](http://barbic.usc.edu/vega/) 有限元
+
+NVIDIA Warp: [NVIDIA Warp](https://nvidia.github.io/warp/) 英伟达开源python图形计算库，作者Miles Macklin
 
 [http://david.li/](http://david.li/) ：一个Web3d环境下的物理效果集合库
 
