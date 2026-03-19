@@ -395,40 +395,32 @@ SuiteSparse：[https://people.engr.tamu.edu/davis/suitesparse.html](https://peop
 
 ## 7 Conferences & Journals
 
-[SIGGRAPH / SIGGRAPH ASIA](https://www.siggraph.org/)
-
-[Eurographics (EG)](https://www.eg.org/wp/)
-
-[Pacific Graphics（PG）](https://pg2022.org/)
-
-[Symposium on Computer Animation (SCA)](https://computeranimation.org/)
-
-[Symposium on Interactive 3D Graphics and Games (I3D)](http://i3dsymposium.github.io/)
-
-[The ACM SIGGRAPH Conference on Motion, Interaction and Games (MIG)](https://mig2021.inria.fr/submission/)
-
-[IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR)](https://ieeevr.org/)        
+### Conferences
+| 简称 | 全称 | CCF分类 |
+| :--- | :--- | :---: |
+| SIGGRAPH / SIGGRAPH ASIA | [ACM Special Interest Group on Computer Graphics](https://www.siggraph.org/) | A |
+| Eurographics | [Annual Conference of the European Association for Computer Graphics](https://www.eg.org/wp/) | B |
+| PG | [Pacific Conference onComputer Graphics and Applications](https://pg2022.org/) | B |
+| SCA | [ACM SIGGRAPH/Eurographics Symposium on Computer Animation](https://computeranimation.org/) | B |
+| I3D | [ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games](http://i3dsymposium.github.io/) | B |
+| MIG | [The ACM SIGGRAPH Conference on Motion, Interaction and Games](https://mig2021.inria.fr/submission/) | - |
+| IEEE VR | [IEEE Conference on Virtual Reality and 3D User Interfaces](https://ieeevr.org/) | A |
 
 <br/> 
 
+### Journals
 
-[ACM Transactions on Graphics (TOG)](https://dl.acm.org/journal/tog)
-
-[IEEE Transactions on Visualization and Computer Graphics (TVCG)](https://www.computer.org/csdl/journal/tg)
-
-[Computer Graphics Forum (CGF)](https://onlinelibrary.wiley.com/journal/14678659)
-
-[Computers &amp; Graphics](https://www.journals.elsevier.com/computers-and-graphics)
-
-[The Visual Computer](https://www.springer.com/journal/371)
-
-[Computer Animation and Virtual Worlds](https://onlinelibrary.wiley.com/journal/1546427x)
-
-[Graphical Models](http://www.elsevier.com/locate/gmod)
-
-[IEEE Computer Applications and Graphics](https://www.computer.org/csdl/magazine/cg)
-
-[Computational Visual Media](https://www.springer.com/journal/41095/) (CVMJ)
+| 简称 | 全称 | IF | CCF分类 | 中科院分区 | JCR分区 |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| TOG | [ACM Transactions on Graphics](https://dl.acm.org/journal/tog) | 9.5 | A | 1区 | Q1 |
+| TVCG | [IEEE Transactions on Visualization and Computer Graphics](https://www.computer.org/csdl/journal/tg) | 5.2 | A | 2区 | Q1 |
+| CGF | [Computer Graphics Forum](https://onlinelibrary.wiley.com/journal/14678659) | 2.7 | B | 4区 | Q2 |
+| C&G | [Computers & Graphics](https://www.journals.elsevier.com/computers-and-graphics) | 2.5 | C | 3区 | Q2 |
+| TVC | [The Visual Computer](https://www.springer.com/journal/371) | 3.0 | C | 3区 | Q2 |
+| CAVW | [Computer Animation and Virtual Worlds](https://onlinelibrary.wiley.com/journal/1546427x) | 1.5 | C | 4区 | Q4 |
+| GM| [Graphical Models](http://www.elsevier.com/locate/gmod) | 1.5 | C | 4区 | Q4 |
+| IEEE CG&A | [IEEE Computer Applications and Graphics](https://www.computer.org/csdl/magazine/cg) | 2.0 | C | 4区 | Q3 |
+| CVMJ | [Computational Visual Media](https://www.springer.com/journal/41095/) |	12.9 | C | 2区 | Q1 |
 
 感谢 [@Xayah](https://www.zhihu.com/people/f85784fe67a5105f265aed3a791f2c8d)[@胡虎互护呼](https://www.zhihu.com/people/81508c1d5969bb797f8e3f9c94acf68b) 的补充！
 感谢 [@Minchen Li](https://www.zhihu.com/people/9f3ee58deeb19551bd92d9591e4503d7)老师的补充！
