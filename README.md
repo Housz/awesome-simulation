@@ -417,8 +417,8 @@ SuiteSparse：[https://people.engr.tamu.edu/davis/suitesparse.html](https://peop
 | CGF | [Computer Graphics Forum](https://onlinelibrary.wiley.com/journal/14678659) | 2.7 | B | 4区 | Q2 |
 | C&G | [Computers & Graphics](https://www.journals.elsevier.com/computers-and-graphics) | 2.5 | C | 3区 | Q2 |
 | TVC | [The Visual Computer](https://www.springer.com/journal/371) | 3.0 | C | 3区 | Q2 |
-| CAVW | [Computer Animation and Virtual Worlds](https://onlinelibrary.wiley.com/journal/1546427x) | 1.5 | C | 4区 | Q4 |
-| GM| [Graphical Models](http://www.elsevier.com/locate/gmod) | 1.5 | C | 4区 | Q4 |
+| CAVW | [Computer Animation and Virtual Worlds](https://onlinelibrary.wiley.com/journal/1546427x) | 1.5 | C | 4区 | Q3 |
+| GM| [Graphical Models](http://www.elsevier.com/locate/gmod) | 1.5 | C | 3区 | Q3|
 | IEEE CG&A | [IEEE Computer Applications and Graphics](https://www.computer.org/csdl/magazine/cg) | 2.0 | C | 4区 | Q3 |
 | CVMJ | [Computational Visual Media](https://www.springer.com/journal/41095/) |	12.9 | C | 2区 | Q1 |
 
