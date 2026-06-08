@@ -2,6 +2,8 @@
 
 [GitHub: github.com/Housz/awesome-simulation](https://github.com/Housz/awesome-simulation) 
 
+[English Version](./README_EN.md)
+
 ## 1 课程
 
 **图形学入门：**
@@ -421,6 +423,7 @@ SuiteSparse：[https://people.engr.tamu.edu/davis/suitesparse.html](https://peop
 | GM| [Graphical Models](http://www.elsevier.com/locate/gmod) | 1.5 | C | 3区 | Q3|
 | IEEE CG&A | [IEEE Computer Applications and Graphics](https://www.computer.org/csdl/magazine/cg) | 2.0 | C | 4区 | Q3 |
 | CVMJ | [Computational Visual Media](https://www.springer.com/journal/41095/) |	12.9 | C | 2区 | Q1 |
+| PACMCGIT | [Proceedings of the ACM on Computer Graphics and Interactive Techniques](https://dl.acm.org/journal/pacmcgit) | 2.3 | - | - | Q3 |
 
 感谢 [@Xayah](https://www.zhihu.com/people/f85784fe67a5105f265aed3a791f2c8d)[@胡虎互护呼](https://www.zhihu.com/people/81508c1d5969bb797f8e3f9c94acf68b) 的补充！
 感谢 [@Minchen Li](https://www.zhihu.com/people/9f3ee58deeb19551bd92d9591e4503d7)老师的补充！
