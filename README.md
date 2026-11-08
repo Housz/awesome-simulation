@@ -361,6 +361,8 @@ mantaflow：[An extensible framework for fluid simulation](http://mantaflow.com/
 
 Vega：[VEGA FEM LIBRARY](http://barbic.usc.edu/vega/) 有限元
 
+QF Solver：[QF Solver](https://github.com/emptiesvoid-cloud/QF_solver) 开源 Python 结构力学有限元求解器，支持静力和动力分析。
+
 NVIDIA Warp: [NVIDIA Warp](https://nvidia.github.io/warp/) 英伟达开源python图形计算库，作者Miles Macklin
 
 [http://david.li/](http://david.li/) ：一个Web3d环境下的物理效果集合库

@@ -208,6 +208,7 @@ A curated list of courses, researchers, literature, code, and other resources fo
 - **PhysBAM:** [PhysBAM](http://physbam.stanford.edu/) A comprehensive physics simulation library (rigid, deformable, fluids, cloth, FSI, etc.).
 - **mantaflow:** [mantaflow](http://mantaflow.com/index.html) Extensible fluid simulation framework.
 - **Vega:** [VEGA FEM LIBRARY](http://barbic.usc.edu/vega/) FEM simulation.
+- **QF Solver:** [QF Solver](https://github.com/emptiesvoid-cloud/QF_solver) Open-source Python finite element solver for structural mechanics, supporting static and dynamic analysis.
 - **NVIDIA Warp:** [NVIDIA Warp](https://nvidia.github.io/warp/) High-performance Python framework for GPU simulation by Miles Macklin.
 - **David.li:** [david.li](http://david.li/) WebGL physics simulation experiments.
 - **SimpleSimulationEngine:** [SimpleSimulationEngine](https://github.com/ProkopHapala/SimpleSimulationEngine) Simulation/numerical library with C++/Python/Web interfaces.
